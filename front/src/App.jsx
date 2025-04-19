@@ -141,7 +141,7 @@ function App() {
                 <span className="ml-2">Downloading Audio...</span>
               </div>
             ) : (
-              'Download  Audio (MP3)'
+              'Download Audio (MP3)'
             )}
           </button>
 
@@ -198,7 +198,7 @@ function App() {
                   <span className="ml-2">Downloading Video...</span>
                 </div>
               ) : (
-                'Download  Video'
+                'Download Video'
               )}
             </button>
           )}
@@ -218,3 +218,4 @@ function App() {
 }
 
 export default App;
+                                          
